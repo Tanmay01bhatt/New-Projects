@@ -1,11 +1,11 @@
-# 🎌 Anime Recommendation System (RAG)
+# Anime Recommendation System (RAG)
 
 An AI-powered **Anime Recommendation System** using **Retrieval-Augmented Generation (RAG)**.  
 Built with **FastAPI**, **Streamlit**, **LangChain**, and **Groq LLM** to deliver personalized anime recommendations from a CSV knowledge base.
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 - **Backend:** FastAPI  
 - **Frontend:** Streamlit  
@@ -17,7 +17,7 @@ Built with **FastAPI**, **Streamlit**, **LangChain**, and **Groq LLM** to delive
 
 ---
 
-## ✨ Features
+## Features
 
 - Semantic search over anime dataset  
 - RAG-based recommendations with explanations  
@@ -27,7 +27,7 @@ Built with **FastAPI**, **Streamlit**, **LangChain**, and **Groq LLM** to delive
 
 ---
 
-## 🐳 Run with Docker
+## Run with Docker
 
 ```bash
 docker compose up --build
